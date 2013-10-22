@@ -1,0 +1,587 @@
+article p {
+    
+    vertical-align: central;
+	font: bold 15px Helvetica, Arial, sans-serif;
+}
+div {
+font:  15px Helvetica, Arial, sans-serif;
+}
+b {
+    color: red;
+}
+h6 {
+margin: 0 auto;
+display:inline-block;
+
+}
+
+body #contenedor header article, #minervaH, #linea{
+	display: inline-block;
+	vertical-align: top;
+}
+
+body{
+	background-image: url(images/pattern-background.jpg) ;
+	padding: 0;
+
+}
+
+nav{
+	width: 104%;
+	background-color: red;
+	margin-left: -2%;
+	-moz-box-shadow: 1px 1px 5px #292929;  
+    -webkit-box-shadow: 0px 1px 3px #292929 ;  
+    -o-box-shadow: 1px 1px 3px #292929;
+    -ms-box-shadow: 1px 1px 3px #292929;
+    box-shadow: 0px 1px 3px #292929;
+}
+nav li:hover #list{
+	max-height: 25%;
+
+}
+p {
+    text-align:center;
+}
+section {
+    width: 150%;
+    margin-top: 3%;
+    font: bold 15px Helvetica, Arial, sans-serif;
+    line-height: 180%;
+}
+td {
+border:solid 1px;
+border-color:black;
+}
+tr {
+width: 100%;
+}
+table {
+margin: 0 auto;
+width: 95%;
+
+-moz-box-shadow: 1px 1px 5px #292929;  
+    -webkit-box-shadow: 0px 1px 3px #292929 ;  
+    -o-box-shadow: 1px 1px 3px #292929;
+    -ms-box-shadow: 1px 1px 3px #292929;
+    box-shadow: 0px 1px 3px #292929;
+}
+.line {
+background-color:red;
+font: 15px Helvetica, Arial, sans-serif;
+}
+.line2{
+  background-color: red;
+  text-align: center;
+  font: bold 16px Helvetica, Arial, sans-serif;
+}
+
+/*===============fila de titulo=================*/
+.cNum {
+display:inline-block;
+border-color:black;
+border:solid 1px;
+width:3.5%;
+margin-left:2.5px;
+margin-top:2px;
+margin-bottom:2px;
+text-align:center;
+}
+.cMate {
+display:inline-block;
+border-color:black;
+border:solid 1px;
+width:38%;
+margin-left:0px;
+margin-right:0px;
+text-align:center;
+
+}
+.cMatr {
+display:inline-block;
+border-color:black;
+border:solid 1px;
+width:7.5%;
+text-align:center;
+}
+.cUV {
+display:inline-block;
+border-color:black;
+border:solid 1px;
+width:7.5%;
+text-align:center;
+}
+.cNot {
+display:inline-block;
+border-color:black;
+border:solid 1px;
+width:7.5%;
+text-align:center;
+}
+.cUM {
+display:inline-block;
+border-color:black;
+border:solid 1px;
+width:7.5%;
+text-align:center;
+}
+.cEst {
+display:inline-block;
+border-color:black;
+border:solid 1px;
+width:7.5%;
+text-align:center;
+}
+.cCur {
+display:inline-block;
+border-color:black;
+border:solid 1px;
+width:7.5%;
+text-align:center;
+}
+.cRef {
+display:inline-block;
+border-color:black;
+border:solid 1px;
+width:7.5%;
+text-align:center;
+}
+
+/*===============Titulo=================*/
+
+.dAnio {
+width:42.1%;
+display:inline-block;
+border-color:black;
+border:solid 1px;
+text-align:center;
+margin-left:2.5px;
+margin-top:2px;
+background-color:gray;
+}
+
+.cMatr2 {
+display:inline-block;
+border-color:black;
+border:solid 1px;
+width:7.5%;
+text-align:center;
+background-color:gray;
+}
+.cUV2 {
+display:inline-block;
+border-color:black;
+border:solid 1px;
+width:7.5%;
+text-align:center;
+background-color:gray;
+}
+.cNot2 {
+display:inline-block;
+border-color:black;
+border:solid 1px;
+width:7.5%;
+text-align:center;
+background-color:gray;
+}
+.cUM2 {
+display:inline-block;
+border-color:black;
+border:solid 1px;
+width:7.5%;
+text-align:center;
+background-color:gray;
+}
+.cEst2 {
+display:inline-block;
+border-color:black;
+border:solid 1px;
+width:7.5%;
+text-align:center;
+background-color:gray;
+}
+.cCur2 {
+display:inline-block;
+border-color:black;
+border:solid 1px;
+width:7.5%;
+text-align:center;
+background-color:gray;
+}
+.cRef2 {
+display:inline-block;
+border-color:black;
+border:solid 1px;
+width:7.5%;
+text-align:center;
+background-color:gray;
+}
+
+/*======================================*/
+
+.navi{
+	color: black;
+	text-decoration: none;
+	font: bold 18px Helvetica, Arial, sans-serif;
+}
+.navi:hover{
+	color: #ffffff;
+	-webkit-transition: 1s;
+	-o-transition: 1s;
+	-moz-transition: 1s;
+	-ms-transition: 1s;
+	transition: 1s;
+}
+.prim{
+	display: inline-block;
+	margin-right: 1%;
+	padding: 1.5%;
+}
+.prim:hover{
+	background-color: a20101;
+	-webkit-transition: 1s;
+	-o-transition: 1s;
+	-moz-transition: 1s;
+	-ms-transition: 1s;
+	transition: 1s;
+	cursor: pointer;
+}
+
+#bar1 {
+background-color: gray;
+
+}
+#bar2 {
+background-color: blue;
+}
+#bar3 {
+background-color: pink;
+}
+#bar4 {
+background-color: yellow;
+}
+#bar5 {
+background-color:green;
+}
+#btnInscribir{
+  margin: 0 auto;
+  font:  15px Helvetica, Arial, sans-serif;
+
+}
+#contenedor{
+background-color: white;
+/*opacity: 0.6;*/
+margin: 0 auto;
+width: 76%;
+box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+height: 800px;
+
+}
+
+#imprimir {
+margin-left:40%;
+}
+
+#tablacompleta {
+width:95%;
+border:solid 1px;
+margin:0 auto;
+}
+#til {
+width:66.5%;
+display:inline-block;
+border-color:black;
+border:solid 1px;
+text-align:center;
+margin-left:2.5px;
+margin-top:2px;
+background-color:red;
+}
+
+#impr {
+width:31.7%;
+display:inline-block;
+border:solid 1px;
+margin:0 auto;
+margin-top:2px;
+background-color:red;
+}
+#drcho{
+	margin-left: -2%;
+}
+#fila {
+border-color:black;
+border:solid 1px;
+width:90%;
+margin: 0 auto;
+}
+#gato {
+margin: 0 auto;
+margin-left:30%;
+margin-top:5%;
+
+}
+
+#imgcont{
+    margin-top: 0px;
+	width: 102%;
+}
+#izq{
+	float: right;
+}
+#minervaH{
+margin-top: 2%;
+margin-left: 2%;
+margin-right: 2%;
+}
+#photo {
+    margin-right: 2%;
+    margin-top: 3%;
+    float:left;
+    width:25%;
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.3);
+   
+}
+#linea{
+	background-color: #000;
+	background: #000;
+	width: 100%;
+	height: 2px;
+	background: -webkit-gradient(radial, center center, 0, center center, 200, from(#000), to(#FFF));
+	background: -moz-gradient(radial, center center, 0, center center, 200, from(#000), to(#FFF));
+	background: -ms-gradient(radial, center center, 0, center center, 200, from(#000), to(#FFF));
+	background: -o-gradient(radial, center center, 0, center center, 200, from(#000), to(#FFF));
+	
+
+}
+.lnbtn{
+  margin: 0 auto;
+  font: bold 16px Helvetica, Arial, sans-serif;
+}
+#tablacompleta {
+-moz-box-shadow: 1px 1px 5px #292929;  
+    -webkit-box-shadow: 0px 1px 3px #292929 ;  
+    -o-box-shadow: 1px 1px 3px #292929;
+    -ms-box-shadow: 1px 1px 3px #292929;
+    box-shadow: 0px 1px 3px #292929;
+}
+.baner {
+height:100%;
+font: Helvetica, Arial, sans-serif;
+}
+
+.second:hover{
+background-color: a20101;
+}
+.second{	
+	background-color: red;
+	-webkit-transition: 1s;
+	-o-transition: 1s;
+	-moz-transition: 1s;
+	-ms-transition: 1s;
+	transition: 1s;
+	cursor: pointer;
+	padding: 5px 5px 5px 5px;
+ 
+	-moz-box-shadow: 1px 1px 5px #292929;  
+    -webkit-box-shadow: 0px 1px 3px #292929 ;  
+    -o-box-shadow: 1px 1px 3px #292929;
+    -ms-box-shadow: 1px 1px 3px #292929;
+    box-shadow: 0px 1px 3px #292929;
+
+}
+
+
+#list{
+	margin-top: -1.9%;
+	position: absolute;
+	list-style: none;
+	text-align: left;
+	width: 12%;
+	left: 38%;
+	top: 48%;
+	max-height: 0%;
+	overflow: hidden;
+    z-index:10;
+	-webkit-transition:max-height 0.6s linear;
+ 	-moz-transition:max-height 0.6s linear;
+ 	transition:max-height 0.6s linear; 		
+
+}
+#principales{
+	list-style-type: none;
+	margin-right: 4%;
+	text-align: center;
+    margin-bottom: 0;
+}
+
+/* Aqui el CSS para la animacion del Slider*/
+
+/*defino la caja del slider*/
+#cont_images {
+border: 5px solid red;
+box-shadow: 1px 1px 5px rgba(0,0,0,0.7);
+height: 343px;
+width:75%;
+margin: 40px auto;
+overflow: visible;
+
+
+}
+/*oculto todo lo que este fuera del slider*/
+#mascara {
+overflow:hidden;
+height:343px;
+}
+/*posiciones las imagenes fuera del slider*/
+#cont_images ul {
+margin:0;
+padding:0;
+position:relative;
+}
+#cont_images li {
+width: 772px;
+height:343px;
+position:absolute;
+top:-343px; /*posicion original fuera del slider*/
+list-style:none;
+}
+/*aca comienzo con las animaciones*/
+    #cont_images li.animacion1 {
+    animation: ciclo1 25s linear infinite;
+    -webkit-animation: ciclo1 25s linear infinite;
+
+    }
+    #cont_images li.animacion2 {
+    animation: ciclo2 25s linear infinite;
+    -webkit-animation:ciclo1 25s linear infinite;
+    }
+    #cont_images li.animacion3 {
+    animation: ciclo3 25s linear infinite;
+    -webkit-animation:ciclo1 25s linear infinite;
+    }
+    #cont_images li.animacion4 {
+    animation: ciclo4 25s linear infinite;
+    -webkit-animation:ciclo1 25s linear infinite;
+    }
+    #cont_images li.animacion5 {
+    animation: ciclo5 25s linear infinite;
+    -webkit-animation:ciclo1 25s linear infinite;
+    }
+   /*uso Keyframe para configurar los movimientos de las animaciones, la duracion es de 5seg c/u, 25 por todo, por tanto 100key/25seg = 4key = 1seg*/
+@keyframes ciclo1 {
+    0% {top: 0px;} /*comienza la primer imagen por eso es visible*/
+    4% {top:0px;} /*posicion original*/
+    16% {top: 0%; opacity:1; z-index:0;} /*del 4 al 16 % = 3seg la imagen es visible*/
+    20% {top: 343px; opacity:0; z-index:0;} /* del 16 al 10 % =durante 1seg se va la imagen*/
+    21% {top:-343px; opacity:0; z-index:-1;} /*vuelve a la posicion inicial*/
+    92% {top:-343px; opacity:0; z-index:0;}
+    96% {top:-343px;opacity:0;}/*del 96 al 100 % = 1seg para q entre la nueva imagen*/
+    100% {top:0px; opacity:1;}
+}
+@keyframes ciclo2 {
+    0% {top:-343px; opacity:0;} /*posicion original*/
+    16% {top:-343px; opacity:0;} /*comienza a moverse*/
+    20% { top: 0px; opacity: 1; }
+    24% { top: 0px; opacity: 1; }  /* del 20% al 24% = x 1seg entra la imagen*/
+    36% { top: 0px; opacity: 1; z-index: 0; }   /*del 24% al 36 % = x 3 seg la imagen es visible */
+    40% { top: 343px; opacity: 0; z-index: 0; } /* del 36% al 40% = x 1 seg sale la imagen */
+    41% { top: -343px; opacity: 0; z-index: -1; }   /* posicion inicial*/
+    100%{ top: -343px; opacity: 0; z-index: -1; }
+}
+@keyframes ciclo3 {
+   0%  { top: -343px; opacity: 0; }
+   36% { top: -343px; opacity: 0; }
+   40% { top: 0px; opacity: 1; }
+   44% { top: 0px; opacity: 1; } 
+   56% { top: 0px; opacity: 1; } 
+   60% { top: 343px; opacity: 0; z-index: 0; }
+   61% { top: -343px; opacity: 0; z-index: -1; } 
+   100%{ top: -343px; opacity: 0; z-index: -1; }
+}
+@keyframes ciclo4 {
+   0%  { top: -343px; opacity: 0; }
+   56% { top: -343px; opacity: 0; }
+   60% { top: 0px; opacity: 1; }
+   64% { top: 0px; opacity: 1; }
+   76% { top: 0px; opacity: 1; z-index: 0; }
+   80% { top: 343px; opacity: 0; z-index: 0; }
+   81% { top: -343px; opacity: 0; z-index: -1; }
+   100%{ top: -343px; opacity: 0; z-index: -1; }
+}
+@keyframes ciclo5 {
+   0%  { top: -343px; opacity: 0; }
+   76% { top: -343px; opacity: 0; }
+   80% { top: 0px; opacity: 1; }
+   84% { top: 0px; opacity: 1; }
+   96% { top: 0px; opacity: 1; z-index: 0; }
+   100%{ top: 343px; opacity: 0; z-index: 0; }
+}
+/*agrego webkit para que funcione con chrome y safari (segun la w3school aun no es compatible sin el prefijo)*/
+@-webkit-keyframes ciclo1 {
+    0% {top: 0px;}
+    4% {top:0px;}
+    16% {top: 0%; opacity:1; z-index:0;} 
+    20% {top: 343px; opacity:0; z-index:0;} 
+    21% {top:-343px; opacity:0; z-index:-1;} 
+    92% {top:-343px; opacity:0; z-index:0;}
+    96% {top:-343px;opacity:0;}
+    100% {top:0px; opacity:1;}
+}
+
+@-webkit-keyframes ciclo2 {
+    0% {top:-343px; opacity:0;} 
+    16% {top:-343px; opacity:0;} 
+    20% { top: 0px; opacity: 1; }
+    24% { top: 0px; opacity: 1; }  
+    36% { top: 0px; opacity: 1; z-index: 0; }  
+    40% { top: 343px; opacity: 0; z-index: 0; }
+    41% { top: -343px; opacity: 0; z-index: -1; }  
+    100%{ top: -343px; opacity: 0; z-index: -1; }
+}
+@-webkit-keyframes ciclo3 {
+   0%  { top: -343px; opacity: 0; }
+   36% { top: -343px; opacity: 0; }
+   40% { top: 0px; opacity: 1; }
+   44% { top: 0px; opacity: 1; } 
+   56% { top: 0px; opacity: 1; } 
+   60% { top: 343px; opacity: 0; z-index: 0; }
+   61% { top: -343px; opacity: 0; z-index: -1; } 
+   100%{ top: -343px; opacity: 0; z-index: -1; }
+}
+@-webkit-keyframes ciclo4 {
+   0%  { top: -343px; opacity: 0; }
+   56% { top: -343px; opacity: 0; }
+   60% { top: 0px; opacity: 1; }
+   64% { top: 0px; opacity: 1; }
+   76% { top: 0px; opacity: 1; z-index: 0; }
+   80% { top: 343px; opacity: 0; z-index: 0; }
+   81% { top: -343px; opacity: 0; z-index: -1; }
+   100%{ top: -343px; opacity: 0; z-index: -1; }
+}
+@-webkit-keyframes ciclo5 {
+   0%  { top: -343px; opacity: 0; }
+   76% { top: -343px; opacity: 0; }
+   80% { top: 0px; opacity: 1; }
+   84% { top: 0px; opacity: 1; }
+   96% { top: 0px; opacity: 1; z-index: 0; }
+   100%{ top: 343px; opacity: 0; z-index: 0; }
+}
+
+/*para poder pausar*/
+#cont_images:hover li {
+   animation-play-state: paused;
+}
+}
+
+/*
+#flecha{
+	width: 0; 
+	height: 0; 
+	border-top: 30px solid black; 
+	border-left: 20px solid transparent; 
+     top: 12.3%;  
+     left: 10.9%;  
+     position: absolute;  
+}
+*/

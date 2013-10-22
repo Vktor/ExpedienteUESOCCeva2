@@ -1,0 +1,122 @@
+a {
+text-decoration:none;
+}
+body{
+	background-image: url(images/pattern-background.jpg) ;
+	padding: 0;
+}
+form{
+	margin: 0 20px;
+	position: relative;
+}
+h4{
+	font-size: 20px;
+	margin: 0px 0px 20px;
+}
+h6{
+	margin: 0px 0px 0px;	
+}
+h4, h6 {
+	color: #7E7E7E;
+	text-align: center;
+	font: bold 25px Helvetica, Arial, sans-serif;
+	letter-spacing: -0.05em;
+	line-height: 20px;	
+}
+#ad{
+	color: #a63724;
+	font: bold 15px Helvetica, Arial, sans-serif;
+	text-align: center;
+	letter-spacing: -0.05em;
+	line-height: 27px;
+	margin: 0px 0px 0px;
+}
+#btnEntrar{
+	margin: 10px 0px 10px;
+	position: relative;
+	width: 36%;
+	height: 4%;
+	font: 15px Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	color: #7E7E7E;
+	box-shadow: 0 2px 2px rgba(0, 0, 0, 0.08);
+	cursor: pointer;
+}
+#btnEntrar:hover{
+background-color: #c1d1d2;
+}
+#contenido{
+	background: #f9f9f9;
+	border: 1px solid #c4c6ca;
+	margin: 0px auto;
+	padding: 25px 0 0;
+	position: relative;
+	text-align: center;
+	width: 380px;
+	box-shadow: 0 3px 10px rgba(0, 0, 0, 0.3);
+
+}
+#carne{
+	background: url(images/carnet.png)  no-repeat scroll 5px 2px transparent;
+
+}
+
+#contrasena{
+	background: url(images/pass.png) no-repeat scroll 5px 2px transparent;
+
+}
+#carne, #contrasena{
+	margin: 0px 0px 10px;
+	position: relative;
+	width: 80%;
+	height: 30px;
+
+	font: 15px Helvetica, Arial, sans-serif;
+	background-color: #eae7e7;
+	padding: 5px 5px 5px 35px;
+	border: 1px solid #c8c8c8;
+
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	border-radius: 3px;
+		
+	-webkit-box-shadow: 0 1px 0 #fff, 0 -2px 5px rgba(0,0,0,0.08) inset;
+	-moz-box-shadow: 0 1px 0 #fff, 0 -2px 5px rgba(0,0,0,0.08) inset;
+	-ms-box-shadow: 0 1px 0 #fff, 0 -2px 5px rgba(0,0,0,0.08) inset;
+	-o-box-shadow: 0 1px 0 #fff, 0 -2px 5px rgba(0,0,0,0.08) inset;
+	box-shadow: 0 1px 0 #fff, 0 -2px 5px rgba(0,0,0,0.08) inset;
+	
+}
+#minerva{
+	margin-top: 2%;
+	margin: auto;
+	display: block;	
+}
+#U{
+	color: #a63724;
+	font: bold 20px Helvetica, Arial, sans-serif;
+	text-align: center;
+	letter-spacing: -0.05em;
+	line-height: 27px;
+	margin: 3px 0px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
