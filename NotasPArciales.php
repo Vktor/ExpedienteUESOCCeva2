@@ -70,85 +70,15 @@ if (empty($_SESSION['carnet'])) {
                     <td class="line">Nota</td>
                     <td class="line">Estado</td>
                 </tr>
-                <tr>
-                    <td>MAT213</td>
-                    <td>2</td>
-                    <td>Matematica 1</td>
-                    <td>5</td>
-                    <td>7</td>
-                    <td>10</td>
-                    <td>8</td>
-                    <td>2</td>
-                    <td>8</td>
-                    <td>7</td>
-                    <td>9</td>
-                    <td>-</td>
-                    <td>-</td>
-                    <td>8</td>
-                    <td>- -</td>
-                    <td>8</td>
-                    <td>Aprobada</td>
-                </tr>
+                <?php
+                include 'NotaParcial.php';
+                ?>
 
-                                <tr>
-                    <td>MAT312</td>
-                    <td>3</td>
-                    <td>Matematica 2</td>
-                    <td>5</td>
-                    <td>7</td>
-                    <td>10</td>
-                    <td>8</td>
-                    <td>2</td>
-                    <td>8</td>
-                    <td>7</td>
-                    <td>9</td>
-                    <td>-</td>
-                    <td>-</td>
-                    <td>8</td>
-                    <td>- -</td>
-                    <td>8</td>
-                    <td>Aprobada</td>
-                </tr>
+                    
 
-                    <tr>
-                    <td>MAT213</td>
-                    <td>2</td>
-                    <td>Matematica 1</td>
-                    <td>5</td>
-                    <td>7</td>
-                    <td>10</td>
-                    <td>8</td>
-                    <td>2</td>
-                    <td>8</td>
-                    <td>7</td>
-                    <td>9</td>
-                    <td>-</td>
-                    <td>-</td>
-                    <td>8</td>
-                    <td>- -</td>
-                    <td>8</td>
-                    <td>Aprobada</td>
-                </tr>
+                   
 
-                    <tr>
-                    <td>MAT213</td>
-                    <td>2</td>
-                    <td>Matematica 1</td>
-                    <td>5</td>
-                    <td>7</td>
-                    <td>10</td>
-                    <td>8</td>
-                    <td>2</td>
-                    <td>8</td>
-                    <td>7</td>
-                    <td>9</td>
-                    <td>-</td>
-                    <td>-</td>
-                    <td>8</td>
-                    <td>- -</td>
-                    <td>8</td>
-                    <td>Aprobada</td>
-                </tr>
+          
             </table>
         </article>
 	</div>
